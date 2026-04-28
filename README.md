@@ -1,6 +1,6 @@
 # Toy Language Interpreter
 
-## Short CV-Style Summary
+## Summary
 I built a small Java interpreter for a toy language for the Advanced Programming Course. It runs programs using a stack-based execution model and keeps program state in custom data structures.
 
 ## What I Built
